@@ -1,2 +1,2 @@
 # Blockgame
-Block-game Tech used:- Html , Css , Javascript.
+# Tech used:- Html , Css , Javascript.
